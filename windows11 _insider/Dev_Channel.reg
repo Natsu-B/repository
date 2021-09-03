@@ -11,5 +11,6 @@ Windows Registry Editor Version 5.00
 "UIRing"="External"
 
 [HKEY_LOCAL_MACHINE\SYSTEM\Setup\LabConfig]
+"BypassRAMCheck"=dword:00000001
 "BypassTPMCheck"=dword:00000001
 "BypassSecureBootCheck"=dword:00000001
